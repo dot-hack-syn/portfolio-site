@@ -1,5 +1,5 @@
 
-  #This is a Portfolio website for myself as a Jr. Dev :) it is currently a work in progress. 
+  # This is a Portfolio website for myself as a Jr. Dev :) it is currently a work in progress. 
 
   ## Running the code
 
